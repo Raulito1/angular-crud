@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "May 5th @ 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Lunch Date",
+      "day": "May 6th @ 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Meet up with the Plug",
+      "day": "May 6th @ 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Drinks with the Homies!!",
+      "day": "May 7th @ 6:30pm",
+      "reminder": false
+    }
+  ]
+}
